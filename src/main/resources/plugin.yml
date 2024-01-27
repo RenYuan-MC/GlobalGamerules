@@ -1,5 +1,5 @@
 name: GlobalGamerules
-version: @version@
+version: '${project.version}'
 main: me.starchier.globalgamerules.Globalgamerules
 api-version: 1.13
 authors: [starchier]
